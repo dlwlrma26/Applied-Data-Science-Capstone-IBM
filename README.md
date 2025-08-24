@@ -1,5 +1,5 @@
 # Applied-Data-Science-Capstone-IBM
-The Applied Data Science capstone is part of the 12 course series IBM Data Scientce professional certificate provided by IBM.
+The Applied Data Science capstone is part of the 12 course series IBM Data Science professional certificate provided by IBM.
 
 # Project Background
 SpaceX is widely regarded as the most successful company of the commercial space age, significantly reducing the cost for space travel. The company advertises Falcon 9 rocket launches on its website with a cost of 
